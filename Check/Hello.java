@@ -1,4 +1,5 @@
 package Check;
+//JAVA PROGRAM TO PRINT HELLO WORLD
 import java.util.*;
 
 public class Hello {
@@ -6,3 +7,6 @@ public class Hello {
         System.out.println("Hello World!!!");
     }
 }
+
+//OUTPUT
+//HELLO WORLD
