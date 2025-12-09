@@ -52,7 +52,7 @@ public class N_Spiral_Matrix {
             if(left <= right){
                 //Traverse left : bottom to top and incerment left
                 for(int i=bottom; i>=top; i--){
-                    ans.add(arr[left][i]);
+                    ans.add(arr[i][left]);
                 }
                 left++;
             }
